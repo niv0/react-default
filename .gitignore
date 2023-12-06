@@ -35,3 +35,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 /.idea/modules.xml
+/.idea/deployment.xml
+/.idea/misc.xml
+/react-default.iml
+/.idea/vcs.xml
+/.idea/.gitignore
