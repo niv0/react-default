@@ -40,3 +40,4 @@ next-env.d.ts
 /react-default.iml
 /.idea/vcs.xml
 /.idea/.gitignore
+/test/mockserver-netty-5.15.0-jar-with-dependencies.jar
